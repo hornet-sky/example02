@@ -1,4 +1,4 @@
 const flag = true
 if (flag) {
-  console.log('hello eslint！！')
+  console.log('hello eslint oopp！！')
 }
